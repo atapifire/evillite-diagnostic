@@ -1,0 +1,11 @@
+{
+  "id": "world-map",
+  "name": "Diagnostic",
+  "author": "atapifire",
+  "version": "0.3.1",
+  "description": "Filterable, searchable top-down world map for EvilQuest, rendered from live in-game data.",
+  "entry": "dist/world-map.js",
+  "repo": "https://github.com/atapifire/evillite-diagnostic",
+  "minClientVersion": "0.2.0",
+  "sha256": "3af860de49e6a60b85d39cc16358f34458310db0718f03c943a2eead934f0ff9"
+}
